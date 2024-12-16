@@ -38,6 +38,8 @@ root.left.right = Node(20)
 root.right.left = Node(60)
 root.right.right = Node(80)
 
+# Printing Traversals
+
 # Post order Traversal
 print("Post order Traversal of the tree:")
 post_order_traversal(root)
